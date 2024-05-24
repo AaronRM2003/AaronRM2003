@@ -62,13 +62,13 @@
 </div>
 <h2 align="center" class="section-heading">🚀 Some of My Works</h2>
 <div align="center">
-  <a href="https://aaronrm2003.github.io/portfolio/">
+  <a href="https://aaronrm2003.github.io/portfolio/" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge" alt="Portfolio">
   </a>
-  <a href="https://main.dolfrdzgkgtyv.amplifyapp.com/">
+  <a href="https://main.dolfrdzgkgtyv.amplifyapp.com/" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/CampusConnect-663399?style=for-the-badge" alt="CampusConnect">
   </a>
-  <a href="https://play.google.com/store/apps/details?id=com.aaronrm.habitbuilder">
+  <a href="https://play.google.com/store/apps/details?id=com.aaronrm.habitbuilder" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Habit%20Builder-00CED1?style=for-the-badge" alt="Habit Builder">
   </a>
   <a href="https://prominence24.online/">
@@ -85,7 +85,7 @@
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white&width=200px" alt="Unity"/>
   <h3 align="center">My Works</h3>
    <a href="https://play.google.com/store/apps/details?id=com.DefaultCompany.SpaceRace">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge" alt="Portfolio">
+    <img src="playstoreicon.jpeg" width=100 alt="SpaceRace">
   </a>
   <a href="https://play.google.com/store/apps/details?id=com.DefaultCompany.CANONWAR">
     <img src="https://img.shields.io/badge/CampusConnect-663399?style=for-the-badge" alt="CampusConnect">
