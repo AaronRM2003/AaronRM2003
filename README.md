@@ -1,6 +1,6 @@
 
 <div align="center">
-    <h1><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=007BFF&center=true&vCenter=true&width=435&lines=Hi..+I'm+Aaron;This+is..;..my+Github..;" alt="Typing SVG"/></h1>
+    <h1><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=CC19FD&center=true&vCenter=true&width=435&lines=Hi..+I'm+Aaron;This+is..;..my+Github..;" alt="Typing SVG"/></h1>
 </div>
 
 
@@ -81,15 +81,27 @@
 
 <h2 align="center" class="section-heading">Games</h2>
 <p align="center">Being a game freak ,I also tried to learn Unity in my free time.</p>
-<div align="center">
+<div align="center" style={{display:flex,flex-direction:row}}>
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white&width=200px" alt="Unity"/>
   <h3 align="center">My Works</h3>
-   <a href="https://play.google.com/store/apps/details?id=com.DefaultCompany.SpaceRace">
-    <img src="playstoreicon.jpeg" width=100 alt="SpaceRace">
-  </a>
-  <a href="https://play.google.com/store/apps/details?id=com.DefaultCompany.CANONWAR">
-    <img src="https://img.shields.io/badge/CampusConnect-663399?style=for-the-badge" alt="CampusConnect">
-  </a>
+ 
+[<img src="playstoreicon.jpeg" width="100">](https://play.google.com/store/apps/details?id=com.DefaultCompany.SpaceRace) 
+
+SpaceRace
+
+[<img src="_d4f030d0-2ee6-4a59-8bda-88818a517de3~2.jpg" width="100">](https://play.google.com/store/apps/details?id=com.DefaultCompany.CANONWAR) 
+
+CanonWar
+
+
+</div>
+
+<h2 align="center" class="section-heading">Embedded Systems</h2>
+<p align="center">Persuing electronics and communication engineering, i also did some electronic projects:</p>
+<div align="center" style={{display:flex,flex-direction:row}}>
+    
+  [<img src="https://img.shields.io/badge/8051 Project-000000?style=for-the-badge&logoColor=white&width=200px">](https://github.com/AaronRM2003/8051-Project)
+
 
 </div>
 
