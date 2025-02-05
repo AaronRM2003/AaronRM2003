@@ -71,7 +71,7 @@
   <a href="https://play.google.com/store/apps/details?id=com.aaronrm.habitbuilder" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Habit%20Builder-00CED1?style=for-the-badge" alt="Habit Builder">
   </a>
-  <a href="https://prominence24.online/">
+  <a href="https://aaronrm2003.github.io/prom/">
     <img src="https://img.shields.io/badge/Prominence (only on mobile)-24?style=for-the-badge" alt="Prominence-Event Website(Only on mobile device)">
   </a>
 </div>
